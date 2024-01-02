@@ -58,8 +58,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Frontend-mentor_newsletter](https://caleb-abuul.github.io/Frontend-mentor_newsletter/)
 
 ## My process
 
@@ -125,5 +125,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Acknowledgments
 
 Each time I sit on my PC to write code, the words of [Kevin Powell](https://github.com/kevin-powell) comes to mind. In his video, Kevin stressed the need to plan out things using pen and paper or a drawing software of some sort before jumping into the fun part of coding and making magic happen. [Take a look at the video](https://youtu.be/WdUqF4lbP3w?si=b0oOFgQ2HaKMRCZK)
-
-I also appreciate Joy Shehab for a wonderful article. It was simple to understand and very helpful.
