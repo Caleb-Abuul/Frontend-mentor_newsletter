@@ -58,7 +58,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://frontendmentor.io/solutions/responsive-newsletter-using-html-css-and-javascript-ONN-2S4mb6)
 - Live Site URL: [Frontend-mentor_newsletter](https://caleb-abuul.github.io/Frontend-mentor_newsletter/)
 
 ## My process
