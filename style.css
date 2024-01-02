@@ -41,14 +41,15 @@ main {
   background: var(--Neutral-white);
   padding: 20px;
   border-radius: 20px;
-  width: 716px;
+  width: 860px;
   margin: auto;
   /* position: relative; */
 }
 
 form {
+  flex-basis: 50%;
   width: 100%;
-  padding: 0 40px 0 20px;
+  margin: 0 40px 0 20px;
 }
 
 h1 {
@@ -118,6 +119,7 @@ form p {
   border: 0;
 }
 .right-col {
+  flex-basis: 50%;
   position: relative;
   height: 100%;
   width: 100%;
@@ -165,6 +167,7 @@ form p {
   }
   .container {
     width: 100%;
+    height: 100%;
     flex-direction: column-reverse;
     align-items: center;
     margin: 0;
@@ -172,15 +175,18 @@ form p {
     border-radius: 0;
   }
   form {
-    /* width: 100%; */
-    padding-bottom: 20px;
+    padding: 20px;
   }
   .right-col img {
+    display: block;
     width: 100%;
-    height: 40%;
+    height: 122%;
   }
   footer {
-    display: none;
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
   }
   .success-msg {
     display: none;
